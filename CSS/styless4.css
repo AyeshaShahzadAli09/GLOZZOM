@@ -1,0 +1,12 @@
+#showcase {
+    background: url("../img/image2.jpg") no-repeat center center/cover;
+    height: 30vh;
+  
+}
+
+.m-7{
+    margin:0 6rem;
+}
+.black{
+    background-color: black;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg {
+    background-image:url("../img/lights.jpg");
+    height:30vh;
+}
+.grey-css{
+    background-color: #495057;
+}
+.fa-solid{
+    font-size: 25px;
+}
+.card-body h5{
+    font-weight: bold;
+}
+.m-7{
+    margin: 0 7rem;
+    
+}
+.greydark-css{
+  background-color:#212529;
+}
+.dark-cards{
+    background-color:#302624;
+  }
+  .black{
+    background-color: black;
+  }

@@ -1,0 +1,15 @@
+#showcase {
+    background: url("../img/image3.jpg") no-repeat center center/cover;
+    height: 30vh;
+  
+}
+.m-8{
+    margin:0 5rem;
+
+}
+#staff img{
+    border-radius:50%;
+}
+.black{
+    background-color: black;
+}
